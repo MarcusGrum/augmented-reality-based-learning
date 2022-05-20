@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARCraft", "Assembly-CSharp.csproj", "{ABCA2728-E474-D58A-E67C-B526B6730FC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARCraft", "Assembly-CSharp-Editor.csproj", "{FC865235-95DD-7F1E-B61E-EE41634BAA24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABCA2728-E474-D58A-E67C-B526B6730FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCA2728-E474-D58A-E67C-B526B6730FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCA2728-E474-D58A-E67C-B526B6730FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCA2728-E474-D58A-E67C-B526B6730FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC865235-95DD-7F1E-B61E-EE41634BAA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC865235-95DD-7F1E-B61E-EE41634BAA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC865235-95DD-7F1E-B61E-EE41634BAA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC865235-95DD-7F1E-B61E-EE41634BAA24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

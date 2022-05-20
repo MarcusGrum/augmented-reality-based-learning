@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{2FA7756D-7CD2-7A19-D2DB-9967415C234E}|">
+  <MonoDevelop.Ide.ItemProperties.ARCraft.Editor PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

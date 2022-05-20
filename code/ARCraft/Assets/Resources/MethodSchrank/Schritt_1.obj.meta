@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 8e9baa716b2cb4b69ba3b576fc45e6cf
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body1
+    100002: Body1:1
+    100004: Body1:2
+    100006: Body1:3
+    100008: Body1:4
+    100010: Body1:5
+    100012: Body1:6
+    100014: Body1:7
+    100016: Body1:8
+    100018: Body1:9
+    100020: //RootNode
+    100022: screwdriver
+    100024: screwdriver:1
+    400000: Body1
+    400002: Body1:1
+    400004: Body1:2
+    400006: Body1:3
+    400008: Body1:4
+    400010: Body1:5
+    400012: Body1:6
+    400014: Body1:7
+    400016: Body1:8
+    400018: Body1:9
+    400020: //RootNode
+    400022: screwdriver
+    400024: screwdriver:1
+    2300000: Body1
+    2300002: Body1:1
+    2300004: Body1:2
+    2300006: Body1:3
+    2300008: Body1:4
+    2300010: Body1:5
+    2300012: Body1:6
+    2300014: Body1:7
+    2300016: Body1:8
+    2300018: Body1:9
+    2300020: screwdriver
+    2300022: screwdriver:1
+    3300000: Body1
+    3300002: Body1:1
+    3300004: Body1:2
+    3300006: Body1:3
+    3300008: Body1:4
+    3300010: Body1:5
+    3300012: Body1:6
+    3300014: Body1:7
+    3300016: Body1:8
+    3300018: Body1:9
+    3300020: screwdriver
+    3300022: screwdriver:1
+    4300000: Body1
+    4300002: Body1:1
+    4300004: Body1:2
+    4300006: Body1:3
+    4300008: Body1:4
+    4300010: Body1:5
+    4300012: Body1:6
+    4300014: Body1:7
+    4300016: Body1:8
+    4300018: Body1:9
+    4300020: screwdriver
+    4300022: screwdriver:1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body1Mat
+    second: {fileID: 2100000, guid: b5626f74f724c4670b3dba3c8acbe340, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body1_1Mat
+    second: {fileID: 2100000, guid: 6d2321dc442af484cadf35ce28442eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body1_2Mat
+    second: {fileID: 2100000, guid: dd3b38a34e22244bd92db3c6407a7c4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body1_3Mat
+    second: {fileID: 2100000, guid: da2f0e27ecb5a4f228b0f106000913a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body1_4Mat
+    second: {fileID: 2100000, guid: 6f9a2787bbdc24c31aeb5025fb922f49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body1_5Mat
+    second: {fileID: 2100000, guid: b56a94c8b103d4bc7bc46a6fca9c50b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body1_6Mat
+    second: {fileID: 2100000, guid: 8478863aa6e9a4f5591988567cc0b6bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body1_7Mat
+    second: {fileID: 2100000, guid: 625d6035408cf44899b1271e8294697a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body1_8Mat
+    second: {fileID: 2100000, guid: 94a944d092f2c4677b64fa5f2b1aeaf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body1_9Mat
+    second: {fileID: 2100000, guid: 4b98719a9528b4576b957eeb461054ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screwdriverMat
+    second: {fileID: 2100000, guid: 343a78cb18ec748119607e086ea8e47e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screwdriver_1Mat
+    second: {fileID: 2100000, guid: 8ae75ed386a314d51a78f2d687f0e2ff, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

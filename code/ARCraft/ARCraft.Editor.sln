@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARCraft.Editor", "ARCraft.Editor.csproj", "{2FA7756D-7CD2-7A19-D2DB-9967415C234E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FA7756D-7CD2-7A19-D2DB-9967415C234E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA7756D-7CD2-7A19-D2DB-9967415C234E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA7756D-7CD2-7A19-D2DB-9967415C234E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA7756D-7CD2-7A19-D2DB-9967415C234E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
